@@ -1,5 +1,3 @@
-#wowwww
-
 #  Test Credit Card Number: 4532689602924663 (VALID)
 #  Test Credit Card Number: 4270557025643724 (INVALID)
 
